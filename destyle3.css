@@ -1,0 +1,66 @@
+body{
+	background-color: rgb(200,200,200);
+	text-align: center;
+}
+
+.header{
+	background-color: Darkcyan;
+	height: 15vh;
+}
+
+.header h1 {
+ background-color: none;
+ text-align: center;
+ color: rgb(200,200,200);
+ vertical-align: center;
+ padding:25px;
+ margin :0px;
+}
+
+
+#pic{
+	width: 30%;
+	display: inline-block;
+	text-align: center;
+	margin-top: 2%;
+}
+#pic img{
+	width: 200px;
+	
+}
+
+.text{
+	width: 70%;
+	text-align: left;
+}
+
+.text p{
+	color: Darkcyan;
+	font-size: 1.8em;
+
+}
+
+
+  {
+  background-color: #ee3e80;
+} 
+
+#footer{
+text-align: center;
+}
+
+#logo1 {
+width: 3%;
+margin-right: 20px;
+}
+
+#logo2 {
+width: 3%;
+margin-right: 20px;
+}
+
+#logo3 {
+width: 3%;
+margin-right: 20px;
+}
+
